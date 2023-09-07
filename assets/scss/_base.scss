@@ -1,0 +1,19 @@
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+a {
+  text-decoration: none !important;
+}
+span {
+	vertical-align: middle !important;
+}
+
+*, *::before, *::after  {
+	font-family: 'Bruno Ace SC', cursive;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 1.5;
+	color: $black;
+}
